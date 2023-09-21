@@ -57,6 +57,7 @@
 +!x::SendText "❌"
 
 ;Greek Letters
+^!a::SendText "α"
 !b::SendText "β"
 !d::SendText "δ"
 +!d::SendText "Δ"

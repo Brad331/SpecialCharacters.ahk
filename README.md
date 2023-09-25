@@ -3,10 +3,11 @@ This is the <a href="https://www.autohotkey.com/">AutoHotkey</a> script I use to
 
 You can copy and paste the script, or <a href="https://bradshacks.com/Bin/SpecialCharacters.exe">download a precompiled version</a> that doesn't require AutoHotkey to run.
 
-You can put it in <strong>%appdata%\Microsoft\Windows\Start Menu\Programs\Startup</strong> (navigate to this quickly by running "shell:startup" in the Run box) to have it automatically run at Windows startup.
-
 This is written in AutoHotkey 2.0 syntax.
 '!' means Alt, '+' means Shift, '^' means Control, so '!a' means pressing 'Alt' and 'A' together.
+
+## Run at Startup
+Put the .exe (or a shortcut to it) in **%appdata%\Microsoft\Windows\Start Menu\Programs\Startup**. You can jump to this folder quickly by presing Ctrl+R and running **shell:startup**.
 
 ## Editing & Compiling
 You can edit this AHK file using any text/code editor, such as Visual Studio Code with the "AutoHotkey v2 Language Support" extension.

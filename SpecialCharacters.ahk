@@ -39,7 +39,7 @@
 +!9::SendText "₉"
 +!0::SendText "₀"
 
-;Math Operators
+;Math Symbols
 !x::SendText "×"
 !/::SendText "÷"
 !=::SendText "±"
@@ -50,6 +50,8 @@
 +!.::SendText "≳"
 !;::SendText "∵"
 !'::SendText "∴"
+!v::SendText "√"
+^!8::SendText "∞"
 
 ;Useful Symbols
 !c::SendText "°C"

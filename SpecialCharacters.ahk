@@ -1,3 +1,5 @@
+; ! alt, + shift, ^ ctrl
+
 ;Spanish Characters
 !a::SendText "á"
 !e::SendText "é"
@@ -59,6 +61,7 @@
 !-::SendText "—"
 +!y::SendText "✅"
 +!x::SendText "❌"
+^!r::SendText "®"
 
 ;Greek Letters
 ^!a::SendText "α"
@@ -66,6 +69,8 @@
 !d::SendText "δ"
 +!d::SendText "Δ"
 !h::SendText "η"
+!l::SendText "λ"
++!l::SendText "Λ"
 !m::SendText "μ"
 !p::SendText "ϕ"
 +!p::SendText "Φ"

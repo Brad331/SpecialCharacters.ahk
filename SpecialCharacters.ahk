@@ -17,6 +17,8 @@
 +!^u::SendText "Ü"
 +!?::SendText "¿"
 !1::SendText "¡"
+![::SendText "«"
+!]::SendText "»"
 
 ;Superscripts
 !2::SendText "²"

@@ -46,7 +46,8 @@
 ;Math Symbols
 !x::SendText "×"
 !/::SendText "÷"
-!=::SendText "±"
+!=::SendText "≠"
++!=::SendText "±"
 !`::SendText "≈"
 !,::SendText "≤"
 +!,::SendText "≲"
